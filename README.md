@@ -11,3 +11,16 @@ This project sought to identify employees within Pewlett Hackard that were near 
 - The management department does not have an eligible retirees for the mentorship program
 - Thre is a stark difference between the amount of of overall staff entering retirement and the amount of staff that is eligible for the mentorship program
 
+## Summary
+
+1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+   1. As the "silver tsunami" begins to hit the company is looking at a substantial loss of over 90,000 employees.  The table below provides a breakdown by department.
+
+   ![](/total_retiring.png)
+
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+   1. As we can see in the table below, there are not enough qualified employees for the mentorship program.  With the low numbers of qualified mentors, the mentors would be stretched thin, considerably.
+
+   ![](/dept_mentorship.png)
+
+Two additional tables were created to show these numbers (total_retiring, dept_mentorship).  
